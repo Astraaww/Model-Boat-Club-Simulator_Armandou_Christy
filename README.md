@@ -107,3 +107,11 @@ En bonus, est-ce que tu pense que tu pourrais implémenter un principe de **chan
 C.a.d que plutôt que d'avoir une simple collection de nos bateaux (et qu'ils aient la même chance d'être sélectionnés au hasard), on aurait une collection avec des pairs `[Boat, Weight]` qui indiqueraient la chance relative de chaque bateau d'apparaitre.  
   
 **:information_source: Une fois que c'est fait : `commit`, `push` et passe à la suite :smile:**  
+  
+### 4. (Bonus) SHOW ME WHAT YOU GOT
+  
+  En bonus, est-ce que tu pourrais mettre à jour le gif (prononcé gif) du projet dans ce README (ligne 9, tout en haut) ?  
+  Les deux fichiers sont à la racine du projet, appelés "README.md" et "model_boat_club_simulator_preview.gif".  
+  J'utilise [ScreenToGif](https://www.screentogif.com/) mais tu peux utiliser le logiciel que tu souhaite.  
+
+**:information_source: Une fois que c'est fait : `commit`, `push` et passe à la suite :smile:**  
